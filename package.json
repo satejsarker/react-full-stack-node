@@ -13,6 +13,7 @@
   "author": "satej sarker",
   "license": "ISC",
   "dependencies": {
+    "cookie-session": "^2.0.0-beta.3",
     "express": "^4.16.3",
     "knex": "^0.14.6",
     "mongoose": "^5.1.4",
